@@ -1,0 +1,4 @@
+@echo off
+echo cd C:\Users\priyasaxena\eclipse-workspace\PetStoreFramework 
+echo mvn clean install
+pause
